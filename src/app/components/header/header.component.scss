@@ -1,0 +1,7 @@
+h3 {
+  color: white;
+}
+
+a:not([href]):not([tabindex]) {
+  color: violet;
+}
